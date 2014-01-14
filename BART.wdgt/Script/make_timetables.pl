@@ -37,9 +37,9 @@ my %line_names = (
 );
 
 my %day_names = (
-    weekday  => '09/14/2012',
-    saturday => '09/15/2012',
-    sunday   => '09/16/2012',
+    weekday  => '01/14/2014',
+    saturday => '01/18/2014',
+    sunday   => '01/19/2014',
 );
 
 my %station_names = (
